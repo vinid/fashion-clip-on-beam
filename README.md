@@ -1,5 +1,6 @@
 # Deploying A Fashion Search Engine from Scratch with Beam and FashionCLIP
 
+This is a WIP. Waiting for the blog post to be published. The code is kind of ready to use but without instructions it's not very useful.
 
 ## Introduction
 
